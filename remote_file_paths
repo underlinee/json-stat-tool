@@ -1,0 +1,10 @@
+username@sample-server1.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server2.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server3.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server4.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server5.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server6.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server7.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server8.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server9.com:/service/logs/%Y_%m_%d.application.log.gz
+username@sample-server10.com:/service/logs/%Y_%m_%d.application.log.gz
